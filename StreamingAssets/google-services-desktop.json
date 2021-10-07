@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "899757545730",
+    "firebase_url": "https://freddy-for-education-default-rtdb.firebaseio.com",
+    "project_id": "freddy-for-education",
+    "storage_bucket": "freddy-for-education.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899757545730:android:dc39cdcfa4c19afe59ca1b",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.FirebaseTests"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899757545730-7r2d5om28j0lrnvfc8g79otvgqpbhiiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDewxdiSrcp-Y3IYm5Iu8rIyohRkpVq4Oc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899757545730-7r2d5om28j0lrnvfc8g79otvgqpbhiiq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "899757545730-ofc8d28tgtnk8kmdvq8u70gflf4fls57.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.DefaultCompany.FirebaseTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
