@@ -3,7 +3,9 @@
     "project_number": "899757545730",
     "firebase_url": "https://freddy-for-education-default-rtdb.firebaseio.com",
     "project_id": "freddy-for-education",
-    "storage_bucket": "freddy-for-education.appspot.com"
+    "storage_bucket": "freddy-for-education.appspot.com",
+    "chromeWebSecurity": false,
+    "modifyObstructiveCode": false
   },
   "client": [
     {
